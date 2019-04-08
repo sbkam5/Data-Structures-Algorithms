@@ -1,0 +1,28 @@
+right   electrical engineering  0  0
+delete   lectrical engineering  2  2
+delete   ectrical engineering  2  4
+delete   ctrical engineering  2  6
+right   ctrical engineering  0  6
+add o   cotrical engineering  3  9
+add m   comtrical engineering  3  12
+add p   comptrical engineering  3  15
+add u   computrical engineering  3  18
+right   computrical engineering  0  18
+delete   computical engineering  2  20
+delete   computcal engineering  2  22
+delete   computal engineering  2  24
+replace with e   computel engineering  4  28
+replace with r   computer engineering  4  32
+right   computer engineering  0  32
+delete   computer ngineering  2  34
+replace with s   computer sgineering  4  38
+replace with c   computer scineering  4  42
+right   computer scineering  0  42
+delete   computer scieering  2  44
+delete   computer sciering  2  46
+right   computer sciering  0  46
+delete   computer scieing  2  48
+delete   computer scieng  2  50
+right   computer scieng  0  50
+add c   computer sciencg  3  53
+replace with e   computer science  4  57

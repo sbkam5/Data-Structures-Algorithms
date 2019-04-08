@@ -1,0 +1,161 @@
+Script started on Sat 02 Feb 2019 06:48:04 PM PST
+]0;sbkam@zuma:hw2[sbkam@zuma hw2]$ ./runner
+-----------------------------Queue----------------------
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+Code took 0.000128 seconds
+
+ --------------------------------------------
+
+N == 1
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+Code took 0.000126 seconds
+
+ --------------------------------------------
+
+N == 10
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+Code took 0.000168 seconds
+
+ --------------------------------------------
+
+N == 100
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+Code took 0.000132 seconds
+
+ --------------------------------------------
+
+N == 1000
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+Code took 0.000136 seconds
+
+ --------------------------------------------
+
+N == 10000
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+Code took 0.000144 seconds
+
+ --------------------------------------------
+
+N == 100000
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+Code took 0.000158 seconds
+
+ --------------------------------------------
+
+N == 1000000
+
+--------------------Double Linked List----------------
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+
+Operation took 4e-06 seconds
+
+
+
+N == 1
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+
+Operation took 3e-06 seconds
+
+
+
+N == 10
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+
+Operation took 4e-06 seconds
+
+
+
+N == 100
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+
+Operation took 1.8e-05 seconds
+
+
+
+N == 1000
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+
+Operation took 0.000282 seconds
+
+
+
+N == 10000
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+
+Operation took 0.002104 seconds
+
+
+
+N == 100000
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+
+Operation took 0.023513 seconds
+
+
+
+N == 1000000
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+
+Operation took 0.235005 seconds
+
+
+
+N == 10000000
+
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+
+Operation took 3.01815 seconds
+
+
+
+N == 100000000
+
+]0;sbkam@zuma:hw2[sbkam@zuma hw2]$ exit
+exit
+
+Script done on Sat 02 Feb 2019 06:48:34 PM PST

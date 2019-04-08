@@ -1,0 +1,18 @@
+#!/bin/bash
+
+counter=1
+echo "-----------------------------Queue----------------------"
+while [ $counter -le 1000000 ]
+do
+  ./queue $counter 10000
+  counter=$(($counter*10))
+done
+
+echo "--------------------Double Linked List----------------"
+counter=1
+while [ $counter -le 100000000 ]
+do
+  ./list $counter
+  counter=$(($counter*10))
+done
+

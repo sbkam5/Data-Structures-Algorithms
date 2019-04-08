@@ -1,0 +1,42 @@
+Script started on Wed 13 Mar 2019 04:38:11 PM PDT
+]0;sbkam@zuma:hw4[sbkam@zuma hw4]$ ./runner
+------------------------------Engineering and Computer Science------------
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+String1: 
+ electrical engineering
+
+String2: 
+ computer science
+
+Total Minimum Cost: 57 
+
+Operations:
+222033330222440244022022034
+
+Output: 
+ computer science
+
+
+
+------------------------------input1.txt-------------------------
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Total Minimum Cost: 1821 
+
+------------------------------input2.txt-------------------------
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Total Minimum Cost: 1826 
+
+------------------------------input3.txt-------------------------
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Total Minimum Cost: 1832 
+
+]0;sbkam@zuma:hw4[sbkam@zuma hw4]$ -----------Be Sure to Loo[K[K[Klook at Output.txt-------------
+-----------Be: Command not found.
+]0;sbkam@zuma:hw4[sbkam@zuma hw4]$ exit
+exit
+
+Script done on Wed 13 Mar 2019 04:38:47 PM PDT

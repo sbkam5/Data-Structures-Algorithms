@@ -1,0 +1,64 @@
+Script started on Sat 02 Mar 2019 09:32:13 PM PST
+]0;sbkam@zuma:hw3[sbkam@zuma hw3]$ ./runner
+-----------------------------Hasthtable----------------------
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+The average amount of probes to insert at 50 percent is 0.581228
+The total number of failed probe searches at 50 percent is 6026.00
+The average amount of successful probes searches at 50 percent is 0.16
+The average amount of probes to search at 50 percent is -0.54 
+
+The average amount of probes to insert at 90 percent is 4.452517
+The total number of failed probe searches at 90 percent is 4013.00
+The average amount of successful probe searches at 90 percent is 1.98
+The average amount of probes to search at 90 percent is 0.78 
+
+
+Code took 0 seconds
+
+ --------------------------------------------
+
+N == 100000
+
+---------------------------MST (Sparse Tree)----------------
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+
+Operation took 0.332592 seconds
+
+
+--------------------------MST(Dense Tree)-------------------
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+
+Operation took 0.743124 seconds
+
+
+--------------------------Extra-Credit (N = 1000)-----------
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+
+The average amount of probes to insert at 50 percent is 0.310974
+The total number of failed probe searches at 50 percent is 6026.00
+The average amount of successful probes searches at 50 percent is 0.06
+The average amount of probes to search at 50 percent is -0.58 
+
+The average amount of probes to insert at 90 percent is 0.560383
+The total number of failed probe searches at 90 percent is 4013.00
+The average amount of successful probe searches at 90 percent is 0.10
+The average amount of probes to search at 90 percent is -0.34 
+
+
+Code took 0 seconds
+
+ --------------------------------------------
+
+N == 100000
+
+]0;sbkam@zuma:hw3[sbkam@zuma hw3]$ exit
+exit
+
+Script done on Sat 02 Mar 2019 09:32:21 PM PST
